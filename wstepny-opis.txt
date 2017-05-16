@@ -1,0 +1,2 @@
+Projekt:Sklep internetowy, aplikacja konsolowa. 
+specyfikacja:koszyk dodawanie przedmiotów, obliczanie ceny, rabat, promocje.
